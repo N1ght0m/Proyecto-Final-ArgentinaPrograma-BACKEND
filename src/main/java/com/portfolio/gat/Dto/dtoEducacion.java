@@ -1,4 +1,4 @@
-package com.portfolio.gat.Security.Dto;
+package com.portfolio.gat.Dto;
 
 import javax.validation.constraints.NotBlank;
 

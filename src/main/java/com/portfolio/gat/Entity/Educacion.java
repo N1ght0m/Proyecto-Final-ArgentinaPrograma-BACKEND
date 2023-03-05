@@ -1,4 +1,4 @@
-package com.portfolio.gat.Security.Entity;
+package com.portfolio.gat.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

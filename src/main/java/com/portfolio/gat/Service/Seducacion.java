@@ -1,7 +1,7 @@
-package com.portfolio.gat.Security.Service;
+package com.portfolio.gat.Service;
 
-import com.portfolio.gat.Security.Entity.Educacion;
-import com.portfolio.gat.Security.Repository.REducacion;
+import com.portfolio.gat.Entity.Educacion;
+import com.portfolio.gat.Repository.REducacion;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

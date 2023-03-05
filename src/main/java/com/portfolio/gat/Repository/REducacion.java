@@ -1,6 +1,6 @@
-package com.portfolio.gat.Security.Repository;
+package com.portfolio.gat.Repository;
 
-import com.portfolio.gat.Security.Entity.Educacion;
+import com.portfolio.gat.Entity.Educacion;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
